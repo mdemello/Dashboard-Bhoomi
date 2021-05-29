@@ -18,7 +18,7 @@ let totalCategories = {
     title:' Total de categorías', 
     color:'success', 
     cuantity: '6',
-    icono:'fa-users'
+    icono:'fa-list'
 }
 
 /* <!-- Cantidad de Usuarios --> */
@@ -27,7 +27,7 @@ let totalUsers = {
     title:'Total de usuarios' ,
     color:'warning',
     cuantity:'20',
-    icono:'fa-list'
+    icono:'fa-users'
 }
 
 let cartProps = [productsInDB, totalCategories, totalUsers];
