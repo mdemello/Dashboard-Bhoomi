@@ -8,7 +8,7 @@ import SmallCard from './SmallCard';
 let productsInDB = {
     title: 'Total de productos',
     color: 'primary', 
-    cuantity: '10',
+    cuantity: '8',
     icono: 'fa-shopping-cart'
 }
 
