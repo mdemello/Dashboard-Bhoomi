@@ -62,7 +62,7 @@ function SideBar(){
                 <li className="nav-item">
                     <Link className="nav-link" to="/kpis">
                         <i className="fas fa-fw fa-chart-area"></i>
-                        <span>KPIs</span>
+                        <span>Listas</span>
                     </Link>
                 </li>
                 
